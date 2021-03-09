@@ -7,6 +7,7 @@ params:
   mode: light
   base_font: serif
   header:
+    eka: Ekaterina MIHAILOVA
     title: Startup
     logo: images/logo.svg
     logo_alt: YourGoal logo
