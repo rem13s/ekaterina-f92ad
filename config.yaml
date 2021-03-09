@@ -14,7 +14,7 @@ params:
     has_primary_nav: false
     has_secondary_nav: true
     secondary_nav_links:
-      - label: About
+      - label: Acasa
         url: /about
         style: link
       - label: FAQ
