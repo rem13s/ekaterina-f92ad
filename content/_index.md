@@ -92,7 +92,7 @@ sections:
     align: center
     background_color: none
     background_image_position: left bottom
-    has_border: true
+    has_border: false
   - type: features_section
     features:
       - title: >-
