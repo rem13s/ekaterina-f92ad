@@ -19,7 +19,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    content: 
+    content: null
   - type: grid_section
     title: Featured On
     align: center
@@ -91,6 +91,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+    background_image_position: left center
   - type: features_section
     features:
       - title: >-
