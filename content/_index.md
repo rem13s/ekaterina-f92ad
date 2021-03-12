@@ -91,7 +91,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    background_image_position: left center
+    background_image_position: right center
   - type: features_section
     features:
       - title: >-
